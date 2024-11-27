@@ -1,8 +1,4 @@
-# vCard - Personal portfolio
-
-![GitHub repo size](https://github.com/Nitish3571/portfolio-dark.git)
-![GitHub stars](https://github.com/Nitish3571/portfolio-dark.git)
-![GitHub forks](https://github.com/Nitish3571/portfolio-dark.git)
+# - Personal portfolio
 
 This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
